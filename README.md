@@ -10,6 +10,34 @@ To ensure that the merge between the country data and the map data collected fro
 
 # Data Visualization
 
-The data visualization was complete using matplotlib to plot the data for each country in each year by looping through the dataset.  Each graph was saved as a .jpg to be later used to create a gif that showed the timelapse data by year between 1961 and 2019.  Below is the outcome of this process.
+The data visualization was complete using matplotlib to plot the data for each country in each year by looping through the dataset.  Each graph was saved as a .jpg to be later used to create a gif that showed the timelapse data by year between 1961 and 2019.  Below shows the data over time as viewed globally.
+
+
+<table>
+    <tr>
+        <td>Global Nitrogen Use</td>
+        <td>Global Phosphate Use</td>
+    </tr>
+    <tr>
+        <td><img src="MapGif_N.gif" width="450"></td>
+        <td><img src="MapGif_Phos.gif" width="450"></td>
+    </tr>
+    <tr>
+        <td>Global Potash Use</td>
+        <td>Global Cereal Yield</td>
+    </tr>
+    <tr>
+        <td><img src="MapGif_Potash.gif" width="450"></td>
+        <td><img src="MapGif_Cereal_Yield.gif" width="450"></td>
+    </tr>
+    <tr>
+        <td>Global Cereal Production</td>
+        <td>Global Land Use</td>
+    </tr>
+    <tr>
+        <td><img src="MapGif_Cereal_Prod.gif" width="450"></td>
+        <td><img src="MapGif_Land_Use.gif" width="450"></td>
+    </tr>
+</table>
 
 
